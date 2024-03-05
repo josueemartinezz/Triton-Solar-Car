@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/josuemartinez/esp/blink/build/CMakeFiles/bootloader
+/Users/josuemartinez/esp/blink/build/CMakeFiles/bootloader.rule
+/Users/josuemartinez/esp/blink/build/CMakeFiles/bootloader-complete.rule
+/Users/josuemartinez/esp/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/josuemartinez/esp/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/josuemartinez/esp/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/josuemartinez/esp/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/josuemartinez/esp/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/josuemartinez/esp/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/josuemartinez/esp/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

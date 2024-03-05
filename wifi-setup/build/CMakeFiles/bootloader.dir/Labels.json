@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/josuemartinez/esp/wifi-setup/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Users/josuemartinez/esp/wifi-setup/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Users/josuemartinez/esp/wifi-setup/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Users/josuemartinez/esp/wifi-setup/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/Users/josuemartinez/esp/wifi-setup/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Users/josuemartinez/esp/wifi-setup/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Users/josuemartinez/esp/wifi-setup/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Users/josuemartinez/esp/wifi-setup/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Users/josuemartinez/esp/wifi-setup/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Users/josuemartinez/esp/wifi-setup/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
